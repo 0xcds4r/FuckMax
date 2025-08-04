@@ -58,7 +58,6 @@ button:hover {
     object-fit: contain;
     cursor: pointer;
 }
-
 .screenshots img:hover {
     transform: scale(1.05);
 }
