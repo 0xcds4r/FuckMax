@@ -4,8 +4,10 @@
 
 ## Скриншоты
 
-<img src="https://github.com/user-attachments/assets/ae45f6c6-2d57-4a13-9032-5fdea7f5d052" width="800" />
-<img src="https://github.com/user-attachments/assets/ee63c631-0293-45b5-84fc-683fac53ccf9" width="800" />
+| Скрин 1 | Скрин 2 |
+|---|---|
+| <img src="https://github.com/user-attachments/assets/ae45f6c6-2d57-4a13-9032-5fdea7f5d052" width="400" /> | <img src="https://github.com/user-attachments/assets/ee63c631-0293-45b5-84fc-683fac53ccf9" width="400" /> |
+
 
 ## Проверка безопасности
 
@@ -16,4 +18,3 @@
 [📥 Скачать APK](https://github.com/0xcds4r/FuckMax/releases/download/release/app-release.apk)
 
 ---
-**Внимание:** используйте на свой страх и риск. Автор не несёт ответственности за последствия использования приложения.
