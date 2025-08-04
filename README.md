@@ -4,7 +4,7 @@
 
 ## Скачать
 
-[📥 Скачать APK]([https://github.com/0xcds4r/FuckMax/releases/download/release/app-release.apk](https://0xcds4r.github.io/FuckMax/))
+[📥 Скачать APK](https://0xcds4r.github.io/FuckMax)
 
 ## Скриншоты
 
