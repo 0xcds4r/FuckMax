@@ -18,3 +18,5 @@
 [📥 Скачать APK](https://github.com/0xcds4r/FuckMax/releases/download/release/app-release.apk)
 
 ---
+
+#BlockMaxMessenger #FuckMax #FuckMaxMessenger, #УдалитьМессенджерМакс
