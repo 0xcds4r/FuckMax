@@ -1,12 +1,115 @@
-body {margin:0;font-family:'Roboto',sans-serif;background:#0f0f0f;color:#fff;text-align:center}
-        header {padding:40px 20px;animation:fadeInDown 1s ease}
-        h1 {font-size:2.5em;margin-bottom:10px}
-        p {font-size:1.2em;color:#bbb}
-        button {background:#ff3b3b;color:#fff;border:none;padding:15px 30px;font-size:1.2em;border-radius:8px;cursor:pointer;transition:transform .2s,background .3s;margin-top:20px}
-        button:hover {transform:scale(1.05);background:#ff1f1f}
-        .screenshots {display:flex;justify-content:center;gap:20px;flex-wrap:wrap;margin-top:40px;animation:fadeIn 1.5s ease}
-        .screenshots img {width:400px;border-radius:12px;box-shadow:0 0 20px rgba(255,59,59,0.4);transition:transform .3s}
-        .screenshots img:hover {transform:scale(1.05)}
-        footer {margin-top:50px;font-size:0.9em;color:#666;padding:20px}
-        @keyframes fadeIn {0%{opacity:0;transform:translateY(20px)}100%{opacity:1;transform:translateY(0)}}
-        @keyframes fadeInDown {0%{opacity:0;transform:translateY(-20px)}100%{opacity:1;transform:translateY(0)}}
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    background: #0f0f0f;
+    color: #fff;
+    text-align: center;
+}
+
+header {
+    padding: 40px 20px;
+    animation: fadeInDown 1s ease;
+}
+
+h1 {
+    font-size: 2.5em;
+    margin-bottom: 10px;
+}
+
+p {
+    font-size: 1.2em;
+    color: #bbb;
+}
+
+button {
+    background: #ff3b3b;
+    color: #fff;
+    border: none;
+    padding: 15px 30px;
+    font-size: 1.2em;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: transform .2s, background .3s;
+    margin-top: 20px;
+}
+
+button:hover {
+    transform: scale(1.05);
+    background: #ff1f1f;
+}
+
+.screenshots {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    margin-top: 40px;
+    animation: fadeIn 1.5s ease;
+}
+
+.screenshots img {
+    width: 400px;
+    max-width: 90%;
+    border-radius: 12px;
+    box-shadow: 0 0 20px rgba(255,59,59,0.4);
+    transition: transform .3s;
+}
+
+.screenshots img:hover {
+    transform: scale(1.05);
+}
+
+footer {
+    margin-top: 50px;
+    font-size: 0.9em;
+    color: #666;
+    padding: 20px;
+}
+
+@keyframes fadeIn {
+    0% {opacity: 0; transform: translateY(20px)}
+    100% {opacity: 1; transform: translateY(0)}
+}
+
+@keyframes fadeInDown {
+    0% {opacity: 0; transform: translateY(-20px)}
+    100% {opacity: 1; transform: translateY(0)}
+}
+
+/* 📱 Мобильная адаптация */
+@media (max-width: 768px) {
+    h1 {
+        font-size: 2em;
+    }
+    p {
+        font-size: 1em;
+    }
+    button {
+        font-size: 1em;
+        padding: 12px 24px;
+    }
+    .screenshots {
+        gap: 10px;
+        margin-top: 20px;
+    }
+    .screenshots img {
+        width: 100%;
+        max-width: 95%;
+    }
+    footer {
+        font-size: 0.8em;
+    }
+}
+
+@media (max-width: 480px) {
+    h1 {
+        font-size: 1.6em;
+    }
+    p {
+        font-size: 0.9em;
+    }
+    button {
+        font-size: 0.9em;
+        padding: 10px 20px;
+    }
+}
