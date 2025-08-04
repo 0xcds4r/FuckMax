@@ -1,5 +1,19 @@
-Используйте данное приложения чтобы отказаться от использования Max Messenger
+# FuckMax — Удаление Max Messenger
 
-Скриншоты:
+Используйте это приложение, чтобы отказаться от использования **Max Messenger**.
 
-<img width="512" height="256" alt="image" src="https://github.com/user-attachments/assets/ae45f6c6-2d57-4a13-9032-5fdea7f5d052" /> <img width="512" height="256" alt="image" src="https://github.com/user-attachments/assets/ee63c631-0293-45b5-84fc-683fac53ccf9" />
+## Скриншоты
+
+<img src="https://github.com/user-attachments/assets/ae45f6c6-2d57-4a13-9032-5fdea7f5d052" width="800" />
+<img src="https://github.com/user-attachments/assets/ee63c631-0293-45b5-84fc-683fac53ccf9" width="800" />
+
+## Проверка безопасности
+
+[Отчёт VirusTotal](https://www.virustotal.com/gui/file/df7e77910f3dd44663499842176fa93ac07c09d025507cae4aacc4870916163d?nocache=1) — приложение прошло проверку на вирусы и не содержит вредоносного кода.
+
+## Скачать
+
+[📥 Скачать APK](https://github.com/0xcds4r/FuckMax/releases/download/release/app-release.apk)
+
+---
+**Внимание:** используйте на свой страх и риск. Автор не несёт ответственности за последствия использования приложения.
